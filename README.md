@@ -16,21 +16,16 @@ In this course, you'll delve into the latest advancements in LLMs and the librar
 
 1. 🛠 **Generating Structured Output**: Learn to generate structured output, including function calls, using LLMs.
 2. 💬 **LangChain Expression Language (LCEL)**: Explore LCEL, a new syntax that simplifies customization of chains and agents to build applications.
-<p align="center">
-<img src="images/2_1.png" height="350"> 
-<img src="images/2_2.png" height="350"> 
-</p>
+![](https://github.com/ksm26/Functions-Tools-and-Agents-with-LangChain/blob/main/images/2_1.png)
+![](https://github.com/ksm26/Functions-Tools-and-Agents-with-LangChain/blob/main/images/2_2.png)
 
-3. 🔄 **Function Calling for Tagging and Data Extraction**: Apply function calling to tasks like tagging and data extraction.
-<p align="center">
-<img src="images/4_1.png" height="300"> 
-<img src="images/4_2.png" height="300"> 
-</p>
+4. 🔄 **Function Calling for Tagging and Data Extraction**: Apply function calling to tasks like tagging and data extraction.
+![](https://github.com/ksm26/Functions-Tools-and-Agents-with-LangChain/blob/main/images/4_1.png)
+![](https://github.com/ksm26/Functions-Tools-and-Agents-with-LangChain/blob/main/images/4_2.png)
 
 4. ⚙️ **Tool Selection and Routing**: Understand tool selection and routing using LangChain tools and LLM function calling.
-<p align="center">
-<img src="images/5_1.png" height="300"> 
-</p>
+
+![](https://github.com/ksm26/Functions-Tools-and-Agents-with-LangChain/blob/main/images/5_1.png)
 
 ## Key Points
 - 🧠 Learn about the most recent advancements in LLM APIs.
